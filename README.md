@@ -7,7 +7,7 @@ Adguard DNS is the solution.
 ![](https://image.ibb.co/iaY7rz/adguard.jpg)
 
 
-Site and test: https://adguard.com/en/adguard-dns/overview.html
+Site and test: (https://adguard.com/en/adguard-dns/overview.html)
 
 Requirements:
 - Magisk 17
