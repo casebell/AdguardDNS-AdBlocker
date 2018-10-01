@@ -1,0 +1,8 @@
+id=AdguardDNS
+name=AdguardDNS
+version=v2.0
+versionCode=20
+author=Asero
+description=Using the new Adguard DNS system-lessly! As simple as that.
+minMagisk=17000
+
