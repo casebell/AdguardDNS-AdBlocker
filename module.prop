@@ -1,0 +1,8 @@
+id=AdguardDNS-AdBlocker
+name=AdguardDNS-AdBlocker
+version=v2.0
+versionCode=20
+author=Asero
+description=A new way for blocking ads and malware.
+minMagisk=17000
+
