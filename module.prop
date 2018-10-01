@@ -1,8 +1,13 @@
-id=AdguardDNS
-name=AdguardDNS
+id=AdguardDNS-AdBlocker
+name=AdguardDNS-AdBlocker
 version=v2.0
 versionCode=20
 author=Asero
-description=Using the new Adguard DNS system-lessly! As simple as that.
+description=A new way for blocking ads and malware
 minMagisk=17000
+version=v2.0
+versionCode=20
+author=Asero
+
+
 
