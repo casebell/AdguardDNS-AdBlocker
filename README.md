@@ -8,6 +8,7 @@ Adguard DNS is the solution.
 
 
 - [Site and test](https://adguard.com/en/adguard-dns/overview.html)
+- [XDA](https://forum.xda-developers.com/apps/magisk/module-adguarddns-ad-free-experience-t3848166)
 
 Requirements:
 - Magisk 17
