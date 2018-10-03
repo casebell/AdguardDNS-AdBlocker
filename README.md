@@ -2,7 +2,7 @@
 
 
 With Hosts file, internet slow down due to cpu usage for resolve domains.
-Adguard DNS is the solution.
+AdGuard DNS is the solution.
 
 ![](https://image.ibb.co/iaY7rz/adguard.jpg)
 
