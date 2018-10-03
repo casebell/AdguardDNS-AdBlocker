@@ -13,3 +13,14 @@ Adguard DNS is the solution.
 Requirements:
 - Magisk 17
 - A brain
+
+**General F.A.Q.**
+
+**Q**: Do I need third-party apps to make it work?
+**A**: No, just install and enjoy.
+
+**Q**: What is AdGuard DNS?
+**A**: AdGuard DNS is a free Domain Name System resolution system. It is an alternative solution for ad blocking and privacy protection. It provides a necessary minimum of best protection against online ads, trackers, and phishing.
+
+**Q**: How does AdGuard DNS work?
+**A**: When you use AdGuard DNS, every time a website or app sends an ad request, our server sends back a null response. AdGuard has a database of domain names that serve for ad purposes, and this database is regularly updated.
