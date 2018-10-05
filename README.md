@@ -1,4 +1,4 @@
-### Ad-free and malware-protection experience without hosts file.
+#### Ad-free and malware-protection experience without hosts file.
 
 
 With the hosts file, internet slow down due to cpu usage for resolve domains.
@@ -10,7 +10,7 @@ AdGuard DNS is the solution.
 - [Site and test](https://adguard.com/en/adguard-dns/overview.html)
 - [XDA](https://forum.xda-developers.com/apps/magisk/module-adguarddns-ad-free-experience-t3848166)
 
-*I am not affiliated in any way with the AdGuard team, if you appreciate their work just say thanks to them.*
+#### *I am not affiliated in any way with the AdGuard team, if you appreciate their work just say thanks to them.*
 
 Requirements:
 - Magisk 17
