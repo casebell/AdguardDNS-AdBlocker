@@ -1,4 +1,4 @@
-# Ad-free and malware-protection experience without hosts file.
+## Ad-free and malware-protection experience without hosts file.
 
 
 With the hosts file, internet slow down due to cpu usage for resolve domains.
