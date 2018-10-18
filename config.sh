@@ -40,11 +40,11 @@ LATESTARTSERVICE=true
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "       AdguardDNS      "
-  ui_print "              2.0              "
-  ui_print "     By Asero for Magisk v17+    "
-  ui_print "*******************************"
+  ui_print "================================="
+  ui_print "      Systemless AdguardDNS      "
+  ui_print "         for Magisk 17+          "
+  ui_print "            By Asero             "
+  ui_print "================================="
 }
 
 ##########################################################################################
