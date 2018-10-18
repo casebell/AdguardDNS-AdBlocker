@@ -10,3 +10,8 @@ iptables -t nat -A OUTPUT -p tcp --dport 53 -j DNAT --to-destination 176.103.130
 iptables -t nat -A OUTPUT -p udp --dport 53 -j DNAT --to-destination 176.103.130.131:53
 iptables -t nat -I OUTPUT -p tcp --dport 53 -j DNAT --to-destination 176.103.130.130:53
 iptables -t nat -I OUTPUT -p udp --dport 53 -j DNAT --to-destination 176.103.130.131:53
+
+ip6tables -t nat -A OUTPUT -p tcp --dport 53 -j DNAT --to destination 2a00:5a60::ad1:0ff
+ip6tables -t nat -A OUTPUT -p udp --dport 53 -j DNAT --to destination 2a00:5a60::ad2:0ff
+ip6tables -t nat -I OUTPUT -p tcp --dport 53 -j DNAT --to-destination 2a00:5a60::ad1:0ff
+ip6tables -t nat -I OUTPUT -p udp --dport 53 -j DNAT --to-destination 2a00:5a60::ad2:0ff
