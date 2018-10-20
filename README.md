@@ -27,3 +27,9 @@ With the hosts file, internet slow down due to CPU usage for resolve domains, Ad
 **Q**: How does AdGuard DNS work?
 
 **A**: When you use AdGuard DNS, every time a website or app sends an ad request, our server sends back a null response. AdGuard has a database of domain names that serve for ad purposes, and this database is regularly updated.
+
+**Q**: Why AdGuard DNS doesn't work for me?
+
+**A**: Your ISP can block all requests if you use another DNS.
+
+
