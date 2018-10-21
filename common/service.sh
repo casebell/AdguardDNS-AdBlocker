@@ -15,3 +15,4 @@ ip6tables -t nat -A OUTPUT -p tcp --dport 5353 -j DNAT --to 2a00:5a60::ad1:0ff
 ip6tables -t nat -A OUTPUT -p udp --dport 5353 -j DNAT --to 2a00:5a60::ad1:0ff
 ip6tables -t nat -I OUTPUT -p tcp --dport 5353 -j DNAT --to 2a00:5a60::ad1:0ff
 ip6tables -t nat -I OUTPUT -p udp --dport 5353 -j DNAT --to 2a00:5a60::ad1:0ff
+
