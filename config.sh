@@ -105,7 +105,7 @@ resolve_conf() {
 	
 	if [ -a /system/etc/resolv.conf ]; then
 		mkdir -p $MODPATH/system/etc/
-		printf "nameserver 176.103.130.130\nnameserver 176.103.130.131" >> $MODPATH/system/etc/resolv.conf
+		printf "nameserver 176.103.130.130\nnameserver 176.103.130.130" >> $MODPATH/system/etc/resolv.conf
 		touch $MODPATH/auto_mount
 	fi
 }
