@@ -7,7 +7,6 @@ With the hosts file, internet slow down due to CPU usage for resolve domains, Ad
 ## Links
 - [Site and test](https://adguard.com/en/adguard-dns/overview.html)
 - [xda-developers](https://forum.xda-developers.com/apps/magisk/module-adguarddns-ad-free-experience-t3848166)
-- [Official Telegram](https://t.me/adguard_en)
 
 *I am not affiliated in any way with the AdGuard team, if you appreciate their work just say thanks to them.*
 
