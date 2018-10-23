@@ -7,25 +7,25 @@ MODDIR=${0%/*}
 # More info in the main Magisk thread
 
 setprop net.eth0.dns1 176.103.130.130
-setprop net.eth0.dns2 176.103.130.131
+setprop net.eth0.dns2 176.103.130.130
 
 setprop net.dns1 176.103.130.130
-setprop net.dns2 176.103.130.131
+setprop net.dns2 176.103.130.130
 
 setprop net.ppp0.dns1 176.103.130.130
-setprop net.ppp0.dns2 176.103.130.131
+setprop net.ppp0.dns2 176.103.130.130
 
 setprop net.rmnet0.dns1 176.103.130.130
-setprop net.rmnet0.dns2 176.103.130.131
+setprop net.rmnet0.dns2 176.103.130.130
 
 setprop net.rmnet1.dns1 176.103.130.130
-setprop net.rmnet1.dns2 176.103.130.131
+setprop net.rmnet1.dns2 176.103.130.130
 
 setprop net.pdpbr1.dns1 176.103.130.130
-setprop net.pdpbr1.dns2 176.103.130.131
+setprop net.pdpbr1.dns2 176.103.130.130
 
 setprop 2a00:5a60::ad1:0ff
-setprop 2a00:5a60::ad2:0ff
+setprop 2a00:5a60::ad1:0ff
 
 
 
@@ -33,6 +33,6 @@ setprop 2a00:5a60::ad2:0ff
 
 if [ -a /system/etc/resolv.conf ]; then
 	mkdir -p $MODDIR/system/etc/
-	printf "nameserver 176.103.130.130\nnameserver 176.103.130.131" >> $MODDIR/system/etc/resolv.conf
+	printf "nameserver 176.103.130.130\nnameserver 176.103.130.130" >> $MODDIR/system/etc/resolv.conf
 	chmod 644 $MODDIR/system/etc/resolv.conf
 fi
