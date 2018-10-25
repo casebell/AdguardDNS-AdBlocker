@@ -1,7 +1,7 @@
 id=AdguardDNS-AdBlocker
 name=AdGuardDNS AdBlocker (Unofficial)
-version=v3.4
-versionCode=34
+version=v3.5
+versionCode=35
 author=Citrus
 description=A new way for blocking ads and malware
 minMagisk=17000
